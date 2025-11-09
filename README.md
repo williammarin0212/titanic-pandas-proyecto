@@ -3,8 +3,8 @@
 ## Descripción general del proyecto  
 Este proyecto aborda el famoso caso del viaje del barco Titanic, que se hundió en 1912. Usando los datos cargados en la competencia de Kaggle, exploramos qué variables influyeron en la supervivencia de los pasajeros y construimos modelos de predicción. Nuestro objetivo es aprender a preparar datos, generar nuevas variables y entender patrones de supervivencia, además de aplicar técnicas básicas de machine learning.
 
-## Integrantes y roles  
-- William Gómez Marín – Data Wrangling y generación de variables nuevas  – Análisis exploratorio de datos y visualizaciones – Modelado predictivo, evaluación y entrega de resultados  
+## Integrante  
+- William Gómez Marín – Generador de nuevas variables  – Análista exploratorio de datos y visualizaciones – Encargado del modelado predictivo, evaluación y entrega de resultados  
 
 ## Objetivos del trabajo  
 1. Investigar cómo las características de los pasajeros (edad, sexo, clase, número de familiares a bordo, etc.) están relacionadas con su probabilidad de supervivencia.  
