@@ -1,0 +1,17 @@
+Sex,grupo_etario,tiene_cabina,Total,Sobrevivieron,Tasa_Supervivencia
+female,Adolescentes,False,18,12,0.667
+female,Adolescentes,True,7,7,1.0
+female,Adultos,False,120,77,0.642
+female,Adultos,True,64,62,0.969
+female,Mayores,False,7,7,1.0
+female,Mayores,True,15,13,0.867
+female,Niños,False,26,17,0.654
+female,Niños,True,4,2,0.5
+male,Adolescentes,False,24,2,0.083
+male,Adolescentes,True,2,2,1.0
+male,Adultos,False,278,35,0.126
+male,Adultos,True,65,28,0.431
+male,Mayores,False,30,2,0.067
+male,Mayores,True,22,5,0.227
+male,Niños,False,26,13,0.5
+male,Niños,True,6,6,1.0
